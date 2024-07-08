@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Epic Library/VR_Study_Hall/Content/VRTemplate/Blueprints/WidgetMenu.uasset",
+				"C:/Epic Library/VR_Study_Hall/Content/VRTemplate/Blueprints/DrawingS.uasset",
+				"C:/Epic Library/VR_Study_Hall/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Epic Library/VR_Study_Hall/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Epic Library/VR_Study_Hall/Content/VRTemplate/Blueprints/WidgetClear.uasset",
 				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Blueprints/WidgetMenu.uasset",
 				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Maps/VRTemplateMap.umap",
@@ -12,6 +17,11 @@
 				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Blueprints/TempWidget.uasset",
 				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Blueprints/Menu.uasset",
 				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Blueprints/TempSummon.uasset",
+				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Materials/Mat_DrawS.uasset",
+				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Materials/Mat_DrawB.uasset",
+				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Blueprints/DrawingS.uasset",
+				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Blueprints/WidgetClear.uasset",
+				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Materials/MI_Projectile.uasset",
 				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Blueprints/Pistol.uasset",
 				"D:/Documents/Unreal Projects/VR_Study_Hall/Content/VRTemplate/Blueprints/Projectile.uasset",
 				"D:/Documents/Unreal Projects/VR_Study_Halls/Content/StarterContent/Architecture/Floor_400x400.uasset"
